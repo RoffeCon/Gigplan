@@ -18,6 +18,6 @@ Safari använder appens inbyggda logga automatiskt när den installeras från en
 
 ## Egen logga
 
-Byt ut filen `logo.svg` mot er egen kvadratiska SVG-logga och behåll filnamnet. Loggan ska helst ha en mörk eller transparent bakgrund och en tydlig form även i liten storlek. Uppdatera sedan sidan på telefonen eller installera om appen för att se ändringen.
+Byt ut `apple-touch-icon.png` (180 × 180), `icon-192.png` och `icon-512.png` mot egna kvadratiska PNG-filer. Behåll filnamnen. Loggan ska ha tydlig kontrast och gärna marginal runt motivet, eftersom telefonen kan beskära ikonen till en rundad form.
 
 > För att hemskärmsikonen ska fungera bäst behöver appen publiceras på en HTTPS-webbplats. Att öppna HTML-filen direkt från filer/ZIP visar fortfarande loggan i själva appen, men telefonen kan då begränsa installationen som app.
