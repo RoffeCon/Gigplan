@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bandlogistik">
+  <rect width="512" height="512" rx="112" fill="#10151b"/>
+  <path d="M160 122h118c42 0 76 34 76 76v26c0 42-34 76-76 76h-26v86c0 20-16 36-36 36h-20c-20 0-36-16-36-36V122Z" fill="#f7b538"/>
+  <path d="M184 144h86c32 0 58 26 58 58v18c0 32-26 58-58 58h-86V144Z" fill="#10151b"/>
+  <circle cx="224" cy="202" r="22" fill="#f7b538"/>
+  <path d="M154 392h204" stroke="#55d6a3" stroke-width="28" stroke-linecap="round"/>
+  <path d="M154 338h204" stroke="#55d6a3" stroke-width="28" stroke-linecap="round"/>
+</svg>
